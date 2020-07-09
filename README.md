@@ -1,3 +1,6 @@
+
+![http://gifsockets.twolfson.com/image.gif](http://gifsockets.twolfson.com/image.gif)
+
 <div>
      <a href="https://oss.capital" target="_blank">
           <img height="75" src="https://reimertz.co/images/projects/osscapital.gif">
