@@ -1,14 +1,3 @@
-<h1>Piérre Reimertz</h1>
-<h3>Creative Generalist</h3>
-
-<hr/>
-
-<h3><a href="mailto:spam@re.im" target="_blank">mail</a>
- -
-<a href="https://twitter.com/reimertz" target="_blank">twitter</a>
--
-<a href="https://github.com/reimertz" target="_blank">github</a></h3>
-
 <div>
      <a href="https://oss.capital" target="_blank">
           <img height="75" src="https://reimertz.co/images/projects/osscapital.gif">
