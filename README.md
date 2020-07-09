@@ -1,12 +1,42 @@
-### Hi there 👋
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<table>
+<img width="50" src="https://reimertz.co/images/projects/osscapital.gif"/>
+<img width="50" src="https://reimertz.co/images/projects/aljabr.gif"/>
+<img width="50" src="https://reimertz.co/images/projects/planetscale.gif"/>
+<img width="50" src="https://reimertz.co/images/projects/the-night-is-young.jpeg"/>
+<img width="50" src="https://reimertz.co/images/projects/slowclub-cover.gif"/>
+<img width="50" src="https://reimertz.co/images/projects/flagtimes-site.gif"/>
+<img width="50" src="https://reimertz.co/images/projects/vincent.gif"/>
+<img width="50" src="https://reimertz.co/images/projects/asocial_black.png"/>
+<img width="50" src="https://reimertz.co/images/projects/anolog.png"/>
+<img width="50" src="https://reimertz.co/images/projects/wcal.gif"/>
+<img width="50" src="https://reimertz.co/images/projects/git-chat.gif"/>
+<img width="50" src="https://reimertz.co/images/projects/nordic_js.gif"/>
+<img width="50" src="https://reimertz.co/images/projects/opentracing.gif"/>
+<img width="50" src="https://reimertz.co/images/projects/lagom.gif"/>
+<img width="50" src="https://reimertz.co/images/projects/write-something.gif"/>
+<img width="50" src="https://reimertz.co/images/projects/push.png"/>
+<img width="50" src="https://reimertz.co/images/projects/685bytesynth.gif"/>
+<img width="50" src="https://reimertz.co/images/projects/parrot_big.gif"/>
+<img width="50" src="https://reimertz.co/images/projects/amplifi.gif"/>
+<img width="50" src="https://reimertz.co/images/projects/sfma.gif"/>
+<img width="50" src="https://reimertz.co/images/projects/trump.gif"/>
+<img width="50" src="https://reimertz.co/images/projects/different-perspectives.gif"/>
+<img width="50" src="https://reimertz.co/images/projects/brand-colors.gif"/>
+<img width="50" src="https://reimertz.co/images/projects/hackforrefugees.gif"/>
+<img width="50" src="https://reimertz.co/images/projects/heartcoins.gif"/>
+<img width="50" src="https://reimertz.co/images/projects/bandpage-1.gif"/>
+<img width="50" src="https://reimertz.co/images/projects/bandpage-2.gif"/>
+<img width="50" src="https://reimertz.co/images/projects/gyver.gif"/>
+<img width="50" src="https://reimertz.co/images/projects/feelbeats.jpg"/>
+<img width="50" src="https://reimertz.co/images/projects/flag-colors.gif"/>
+<img width="50" src="https://reimertz.co/images/projects/popwars.gif"/>
+<img width="50" src="https://reimertz.co/images/projects/nevah.gif"/>
+<img width="50" src="https://reimertz.co/images/projects/letswork.png"/>
+<img width="50" src="https://reimertz.co/images/projects/dynosrc.gif"/>
+<img width="50" src="https://reimertz.co/images/projects/nes-o-png.gif"/>
+<img width="50" src="https://reimertz.co/images/projects/shorten-js.gif"/>
+<img width="50" src="https://reimertz.co/images/projects/swear-at.gif"/>
+<img width="50" src="https://reimertz.co/images/projects/plus-js.png"/>
+<img width="50" src="https://reimertz.co/images/projects/purple.gif"/>
+<img width="50" src="https://reimertz.co/images/projects/vasktrafik.jpg"/>
+</table>
