@@ -1,9 +1,3 @@
-
-
-<p align="center">
-     <img width="300" object-fit="cover" src="https://raw.githubusercontent.com/reimertz/reimertz/master/me.gif">
-</p>
-
 <div>
      <a href="https://oss.capital" target="_blank">
           <img height="75" src="https://reimertz.co/images/projects/osscapital.gif">
