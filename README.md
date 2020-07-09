@@ -1,3 +1,5 @@
+          <img height="75" src="me.gif">
+
 <div>
      <a href="https://oss.capital" target="_blank">
           <img height="75" src="https://reimertz.co/images/projects/osscapital.gif">
