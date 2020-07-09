@@ -1,5 +1,5 @@
 
-![http://gifsockets.twolfson.com/image.gif](http://gifsockets.twolfson.com/image.gif)
+<img src="http://gifsockets.twolfson.com/image.gif" />
 
 <div>
      <a href="https://oss.capital" target="_blank">
