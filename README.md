@@ -1,14 +1,3 @@
-
-<div>
-<img src="https://www.w3schools.com/htmL/workplace.jpg" alt="Workplace" usemap="#workmap">
-
-<img name="workmap">
-  <area shape="rect" coords="34,44,270,350" alt="Computer" href="https://reimertz.com/1">
-  <area shape="rect" coords="290,172,333,250" alt="Phone" href="https://reimertz.com/2">
-  <area shape="circle" coords="337,300,44" alt="Coffee" href="https://reimertz.com/3">
-</img> 
-</div>
-
 <a href="https://reimertz.co">
   <div>
   <img height="100" src="https://reimertz.co/images/projects/osscapital.gif"/>
