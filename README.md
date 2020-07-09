@@ -1,20 +1,12 @@
-<div>
 
-<img width="9.8%" object-fit="cover" src="https://raw.githubusercontent.com/reimertz/reimertz/master/me.gif">
-<img width="9.8%" object-fit="cover" src="https://raw.githubusercontent.com/reimertz/reimertz/master/me.gif">
-<img width="9.8%" object-fit="cover" src="https://raw.githubusercontent.com/reimertz/reimertz/master/me.gif">
-<img width="9.8%" object-fit="cover" src="https://raw.githubusercontent.com/reimertz/reimertz/master/me.gif">
-<img width="9.8%" object-fit="cover" src="https://raw.githubusercontent.com/reimertz/reimertz/master/me.gif">
-<img width="9.8%" object-fit="cover" src="https://raw.githubusercontent.com/reimertz/reimertz/master/me.gif">
-<img width="9.8%" object-fit="cover" src="https://raw.githubusercontent.com/reimertz/reimertz/master/me.gif">
-<img width="9.8%" object-fit="cover" src="https://raw.githubusercontent.com/reimertz/reimertz/master/me.gif">
-<img width="9.8%" object-fit="cover" src="https://raw.githubusercontent.com/reimertz/reimertz/master/me.gif">
-<img width="9.8%" object-fit="cover" src="https://raw.githubusercontent.com/reimertz/reimertz/master/me.gif">
 
-</div>
+<p align="center">
+     <img width="300" object-fit="cover" src="https://raw.githubusercontent.com/reimertz/reimertz/master/me.gif">
+</p>
+
 <div>
      <a href="https://oss.capital" target="_blank">
-          <img height="75" width="100%" src="https://reimertz.co/images/projects/osscapital.gif">
+          <img height="75" src="https://reimertz.co/images/projects/osscapital.gif">
      </a>
      <a href="https://aljabr.io" target="_blank">
           <img height="75" src="https://reimertz.co/images/projects/aljabr.gif">
