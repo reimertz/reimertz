@@ -1,8 +1,8 @@
-          <img height="75" src="me.gif">
+<img height="300" object-fit="cover" src="me.gif">
 
 <div>
      <a href="https://oss.capital" target="_blank">
-          <img height="75" src="https://reimertz.co/images/projects/osscapital.gif">
+          <img height="75" width="100%" src="https://reimertz.co/images/projects/osscapital.gif">
      </a>
      <a href="https://aljabr.io" target="_blank">
           <img height="75" src="https://reimertz.co/images/projects/aljabr.gif">
